@@ -1,0 +1,45 @@
+img {
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+}
+
+
+.background-gryff {
+    background-color: #9e2a2b;
+}
+
+.background-raven {
+    background-color: #98c1d9;
+}
+
+.background-slytherin {
+    background-color: #386641;
+}
+
+.background-puff {
+    background-color: #ffd166;
+}
+
+.image-g {
+    border: 5px groove rgb(234, 201, 10);
+}
+
+.image-r {
+    border: 5px groove #d68c45;
+}
+
+.image-h {
+    border: 5px groove black;
+}
+.image-s {
+    border: 5px groove silver;
+}

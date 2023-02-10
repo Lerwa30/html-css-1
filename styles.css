@@ -1,0 +1,24 @@
+.background-main {
+    color: white;
+    background-color: #023047;
+}
+
+img {
+    width: 1000px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px groove #219ebc
+}
+
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: #abd5bd;
+}
+
+.links {
+    text-align: center;
+    word-spacing: 175px;
+    color:#219ebc
+}
